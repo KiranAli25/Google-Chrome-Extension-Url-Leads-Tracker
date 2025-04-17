@@ -10,7 +10,10 @@ The **URL Tracker Chrome Extension** is a minimalistic tool designed to help use
 - **Save URLs with Ease:** Quickly save the current tab's URL with a single click using the "Save Tab" button.  
 - **Manual Entry:** Not all URLs come from tabs! You can easily input and save any URL manually.  
 - **URL Management:** Delete saved URLs effortlessly, allowing you to keep your list updated and relevant.  
-- **User-friendly Interface:** The extension is designed to be intuitive and minimalistic, ensuring that you can focus on your work without distractions.  
+- **User-friendly Interface:** The extension is designed to be intuitive and minimalistic, ensuring that you can focus on your work without distractions.
+  
+## Video Tutorial 
+  https://www.youtube.com/watch?v=V0OSGeMtlzw
 
 ## Installation
 
