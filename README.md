@@ -1,6 +1,9 @@
 # Google Chrome Extension for Tracking Url Leads
 Introducing the URL Tracker Chrome Extension! This minimalist tool simplifies URL management while you browse, making it perfect for job seekers and sales professionals. Effortlessly save links from your active tabs, add new ones, and delete as needed. Stay organized and boost your productivity with this user-friendly extension!
 
+# Link to the URL Tracker Extension on Google Webstore
+https://chromewebstore.google.com/detail/kool-kat-url-tracker/mcpfpfbjidkijjhggjghiomefkahekpd?authuser=0&hl=en
+
 ## Overview
 
 The **URL Tracker Chrome Extension** is a minimalistic tool designed to help users efficiently track and manage URLs while browsing the web. Whether you are sourcing for jobs, managing leads in sales, or keeping tabs on various web pages during projects, our extension provides a seamless experience to save, organize, and delete URLs directly from your browser.
@@ -15,7 +18,7 @@ The **URL Tracker Chrome Extension** is a minimalistic tool designed to help use
 ## Video Tutorial 
   https://www.youtube.com/watch?v=V0OSGeMtlzw
 
-## Installation
+## Installation from GitHub
 
 1. **Download and Install:**
    Download the Files.
@@ -24,7 +27,12 @@ The **URL Tracker Chrome Extension** is a minimalistic tool designed to help use
    - Go to Chrome, click on extensions, then click on manage extensions. Click on upload Package and upload all the files. Click okay. 
 
 3. **Access the Extension:**
-   - Once installed, click on the extension icon in the Chrome toolbar to get started! Pin the extension. 
+   - Once installed, click on the extension icon in the Chrome toolbar to get started! Pin the extension.
+  
+ ## Installation from Google Webstore**
+ Simply open the link & click on add to chrome.
+ https://chromewebstore.google.com/detail/kool-kat-url-tracker/mcpfpfbjidkijjhggjghiomefkahekpd?authuser=0&hl=en
+
 
 ## How to Use
 
@@ -46,3 +54,5 @@ The **URL Tracker Chrome Extension** is a minimalistic tool designed to help use
 
 
 Thank you for using the **URL Tracker Chrome Extension**! We hope it makes your browsing more productive and organized. Happy tracking!
+https://chromewebstore.google.com/detail/kool-kat-url-tracker/mcpfpfbjidkijjhggjghiomefkahekpd?authuser=0&hl=en
+
