@@ -29,7 +29,7 @@ The **URL Tracker Chrome Extension** is a minimalistic tool designed to help use
 3. **Access the Extension:**
    - Once installed, click on the extension icon in the Chrome toolbar to get started! Pin the extension.
   
- ## Installation from Google Webstore**
+ ## Installation from Google Webstore
  Simply open the link & click on add to chrome.
  https://chromewebstore.google.com/detail/kool-kat-url-tracker/mcpfpfbjidkijjhggjghiomefkahekpd?authuser=0&hl=en
 
